@@ -3,3 +3,6 @@ e-commerce/
 __pycache__/
 *.csv
 *.parquet
+.venv/
+venv/
+.ipynb_checkpoints/
